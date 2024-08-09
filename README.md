@@ -28,12 +28,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
  Create a couple of tickets as an external user (Customer):
 
-    - Open your browser, and go to http://localhost/osticket/
-    - Click 'Open a New Ticket'
-    - Enter the customers Contact Information -> Email Address\ Full Name\ Help Topics (Choose from the ones created in post-installation or any)
-    - Fill out the 'Ticket Details' -> Issue Summary (create your own) -> Breif sentence in the empty detail box (create your own)
-    - Click 'Create Ticket' 
-    - Once the ticket is created you'll get an automatic thank you message from the Support Team
+  - Open your browser, and go to http://localhost/osticket/
+  -  Click 'Open a New Ticket'
+  -  Enter the customers Contact Information -> Email Address\ Full Name\ Help Topics (Choose from the ones created in post-installation or any)
+  -  Fill out the 'Ticket Details' -> Issue Summary (create your own) -> Breif sentence in the empty detail box (create your own)
+  - Click 'Create Ticket' 
+  - Once the ticket is created you'll get an automatic thank you message from the Support Team
 
 
 ![image](https://github.com/user-attachments/assets/1258a44b-fa1d-4529-8fed-53cc237c3818)
